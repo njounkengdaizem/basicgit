@@ -1,9 +1,14 @@
-def squareroot(a):
+def squareRoot(a):
     return a ** 0.5
 
+def sum(c,d):
+    return c+d
 
-print(squareroot(10))
-print(squareroot(4))
+
+print(squareRoot(10))
+print(squareRoot(4))
+print(sum(10,4))
+print(sum(111,55))
 
 
 
